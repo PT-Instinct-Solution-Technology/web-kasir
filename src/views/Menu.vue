@@ -133,16 +133,16 @@ export default {
 
     const dummyMenus = ref([
       {
-        nama_menu: "Menu 1",
-        deskripsi_menu: "Deskripsi Menu 1",
+        nama_menu: "Bebek Goreng",
+        deskripsi_menu: "Bebek goreng dengan kematangan sempurna",
         harga_menu: "Rp.10000",
-        image: "path/to/image1.jpg",
+        image: "/img/menu1.jpg",
       },
       {
-        nama_menu: "Menu 2",
-        deskripsi_menu: "Deskripsi Menu 2",
+        nama_menu: "Bebek Bakar",
+        deskripsi_menu: "Daging bebek yang dibakar, dipadukan dengan aroma bumbu khas.",
         harga_menu: "Rp.15000",
-        image: "path/to/image2.jpg",
+        image: "/img/menu2.jpg",
       },
       // Tambahkan data dummy lainnya jika diperlukan
     ]);

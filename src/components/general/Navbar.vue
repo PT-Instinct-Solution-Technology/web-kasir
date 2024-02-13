@@ -33,7 +33,7 @@
           }}</span>
           <!-- <img class="img-profile rounded-circle" src="/img/nobi.jpg" /> -->
           <img
-            :src="'http://127.0.0.1:8000/storage/profile/' + gambar"
+            src="../../../public/img/bagus.jpg"
             alt=" gambarprofile"
             class="img-profile rounded-circle"
           />
